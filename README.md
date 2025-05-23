@@ -46,7 +46,7 @@ A student of Systems Analysis and Development, from Brazil
     <img src="https://github-readme-stats.vercel.app/api?username=matheusmarqlima&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="matheusmarqlima's GitHub stats" style="width: 50%; height: auto;" />
   </a>
 
-  <a href="https://github.com/matheusmarqlima" style="width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarqlima&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" style="width: 100%; height: auto;" />
+  <a href="https://github.com/matheusmarqlima" style="width: 20%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarqlima&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" style="width: 50%; height: auto;" />
   </a>
 </div>

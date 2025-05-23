@@ -41,12 +41,12 @@ A student of Systems Analysis and Development, from Brazil
 
 <b>My GitHub Stats</b>
 
-<div style="display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap;">
-  <a href="http://www.github.com/matheusmarqlima" style="width: 48%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=matheusmarqlima&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="matheusmarqlima's GitHub stats" style="width: 100%; height: 165px;" />
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
+  <a href="http://www.github.com/matheusmarqlima" style="width: 400px; margin-bottom: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=matheusmarqlima&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="matheusmarqlima's GitHub stats" style="width: 100%; height: auto;" />
   </a>
 
-  <a href="https://github.com/matheusmarqlima" style="width: 48%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarqlima&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" style="width: 100%; height: 165px;" />
+  <a href="https://github.com/matheusmarqlima" style="width: 400px; margin-bottom: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarqlima&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" style="width: 100%; height: auto;" />
   </a>
 </div>

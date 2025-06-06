@@ -34,8 +34,22 @@ A student of Systems Analysis and Development, from Brazil
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheusmarqlima&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Estatísticas do GitHub do Matheus"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusmarqlima&theme=tokyonight&hide_border=false" alt="Sequência de Contribuições do Matheus"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarqlima&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Principais Linguagens do Matheus"/>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="http://www.github.com/matheusmarqlima">
+        <img src="https://github-readme-stats.vercel.app/api?username=matheusmarqlima&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Estatísticas do GitHub do Matheus">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/matheusmarqlima">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusmarqlima&theme=tokyonight&hide_border=false" alt="Sequência de Contribuições do Matheus">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/matheusmarqlima">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarqlima&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Principais Linguagens do Matheus">
+      </a>
+    </td>
+  </tr>
+</table>

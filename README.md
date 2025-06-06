@@ -34,24 +34,8 @@ A student of Systems Analysis and Development, from Brazil
 
 ### GitHub Stats
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="http://www.github.com/matheusmarqlima">
-        <img src="https://github-readme-stats.vercel.app/api?username=matheusmarqlima&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="matheusmarqlima's GitHub Stats">
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/matheusmarqlima">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarqlima&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages&width=380" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/matheusmarqlima">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusmarqlima&theme=tokyonight&hide_border=false" alt="matheusmarqlima's Streak" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheusmarqlima&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Estatísticas do GitHub do Matheus"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusmarqlima&theme=tokyonight&hide_border=false" alt="Sequência de Contribuições do Matheus"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarqlima&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Principais Linguagens do Matheus"/>
+</p>

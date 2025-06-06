@@ -43,12 +43,14 @@ A student of Systems Analysis and Development, from Brazil
     </td>
     <td align="center">
       <a href="https://github.com/matheusmarqlima">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusmarqlima&theme=tokyonight&hide_border=false" alt="Sequência de Contribuições do Matheus">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarqlima&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Principais Linguagens do Matheus">
       </a>
     </td>
-    <td align="center">
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
       <a href="https://github.com/matheusmarqlima">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarqlima&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Principais Linguagens do Matheus">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusmarqlima&theme=tokyonight&hide_border=false" alt="Sequência de Contribuições do Matheus">
       </a>
     </td>
   </tr>

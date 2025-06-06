@@ -36,7 +36,7 @@ A student of Systems Analysis and Development, from Brazil
   <tr>
     <td>
       <a href="http://www.github.com/matheusmarqlima">
-        <img src="https://github-readme-stats.vercel.app/api?username=matheusmarqlima&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&width=380" alt="matheusmarqlima's GitHub stats" />
+        <img src="![matheusmarqlima's Stats](https://github-readme-stats.vercel.app/api?username=matheusmarqlima&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)">
       </a>
     </td>
     <td>

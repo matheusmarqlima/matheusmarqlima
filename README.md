@@ -79,3 +79,7 @@ A student of Systems Analysis and Development, from Brazil
     </td>
   </tr>
 </table>
+
+<img src="https://raw.githubusercontent.com/matheusmarqlima/matheusmarqlima/output/snake.svg" alt="Snake animation" />
+
+###
